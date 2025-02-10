@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.Leanback">
+        <item name="android:colorBackground">@color/colorBackground</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+    </style>
+
+    <style name="MovieTitleStyle">
+        <item name="android:textSize">@dimen/text_size_medium</item>
+        <item name="android:textColor">@color/textColorPrimary</item>
+        <item name="android:gravity">center</item>
+    </style>
+</resources>
